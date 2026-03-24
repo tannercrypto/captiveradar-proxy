@@ -1,5 +1,5 @@
 {
-  "name": "captiveradar-proxy",
+  "name": "package.json",
   "version": "1.0.0",
   "description": "Apollo API proxy for CaptiveRadar",
   "main": "server.js",
